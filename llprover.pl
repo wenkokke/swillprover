@@ -1,5 +1,4 @@
-%
-%  Linear Logic Prover for SICStus Prolog
+%  Linear Logic Prover for SWI Prolog
 %  by Naoyuki Tamura (tamura@kobe-u.ac.jp)
 %     Dept. Computer & Systems Eng., Kobe Univ., Japan
 %  TeX form output by Eiji Sugiyama (eiji@grad306c.scitec.kobe-u.ac.jp)
